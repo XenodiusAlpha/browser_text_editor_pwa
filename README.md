@@ -71,8 +71,10 @@ Feel free to contribute to the project. Follow the [contribution guidelines](CON
 This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
-
+![Start Page Heroku](./screenshots/start.png)
+![Install](./screenshots/install.png)
+![Offline App](./screenshots/offline.png)
 
 ## Links
 GitHub: https://github.com/XenodiusAlpha/browser_text_editor_pwa
-Heroku: 
+Heroku: https://browser-text-editor-js-933c5f013968.herokuapp.com/
